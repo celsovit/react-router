@@ -14,6 +14,13 @@ Caso o create-react-app não esteja disponível, instale-o com o seguinte comand
 $ npm i -g create-react-app
 ```
 
+Este projeto utiliza [React Router](https://reactrouter.com/). Para instalá-lo,
+execute o comando a seguir:
+
+```shell
+$ npm i react-router-dom
+```
+
 
 ## Saiba Mais
 
